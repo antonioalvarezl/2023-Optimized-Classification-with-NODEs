@@ -10,6 +10,7 @@ In this setting, the $2N$ points are randomly sampled from the uniform distribut
 
 # Citing
 If you are using this toolbox for your scientific publication, we would be very appreciative if you were to cite the following article:
+
 @misc{álvarezlópez2023optimized,
       title={Optimized classification with neural ODEs via separability}, 
       author={Antonio Álvarez-López and Rafael Orive-Illera and Enrique Zuazua},
